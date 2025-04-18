@@ -156,8 +156,6 @@ export default function MenuPage() {
           </div>
         </>
       )}
-  
-      {/* PRINT VIEW */}
       {showFinalPrint && (
         <div className="mt-5">
           <h2 className="text-center mb-4">HK Cafe</h2>
