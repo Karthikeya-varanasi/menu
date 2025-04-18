@@ -75,7 +75,6 @@ export default function MenuPage() {
   
   return (
     <div className="container py-4">
-      {/* MENU VIEW */}
       {!showBill && !showFinalPrint && (
         <div className="mt-5">
           {menuItems.map((item, index) => {
