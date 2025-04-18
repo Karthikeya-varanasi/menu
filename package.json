@@ -9,8 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ag-grid-enterprise": "^33.2.4",
+    "ag-grid-react": "^33.2.4",
+    "antd": "^5.24.7",
+    "bootstrap": "^5.3.5",
+    "mongodb": "^6.15.0",
+    "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.1"
+    "react-select": "^5.10.1"
   }
 }
